@@ -1,28 +1,81 @@
-# BuyUp Dynamic E-Commerce Product Catalog
+# BuyUp E-Commerce -Web Application Frontend
 # Overview
 
-BuyUp is an interactive e-commerce product catalog that was developed to mirror frontend life issues. The platform gives an opportunity to browse, filter and sort the products without inconvenience to the user and the user experience is easy, responsive, and available on web, mobile and PWA media.
+BuyUp is an e-commerce based product catalog which is front-based and intended to demonstrate the current web development capabilities. The application helps the user to navigate the products, read their information and then filter and sort it and also utilize a shopping cart through a convenient and user-friendly interface.
 
-# Real-World Application
+It is developed in the original of project Nexus (ProDev Frontend), which is alleged to be real-life frontend development obstacles and workflows.
 
-The project is a simulation of a production level exercise, where scalability, usability and performance are relevant. It is focused on creation of sustainable frontends, loading of pages with pagination and infinite scrolling of high-traffic data, and allowing a broad user base and devices to access it.
+# Project Purpose
 
-# Project Goals
+The structure and construction of a production-ready e-commerce frontend will be the goal of BuyUp, and the focus should be on:
 
-The main goals of BuyUp are to combine APIs to access dynamically changing data, increase the product discoverability through the filter and sorting capabilities, and offer a friendly and responsive interface with an optimized performance and easy navigation.
-
-# Technologies Used
-
-BuyUp is coded in React or React Native (UI component), Redux (state management), TypeScript (type safety/maintainability) and Tailwind Cass (modern responsive design system).
+-Clean and maintainable code
+-Application architecture (scalable components).
+-Good user experience inter-device.
+-Practice Version control practice and professional development
 
 # Key Features
 
-The platform supports loading of the products as an API, the error and loading state is effective, filters are based on the categories and prices, multi-criteria sorting, pagination, infinite scrolling as well as being fully responsive to all the sizes of the screen.
+-Product listing page
+
+-Product details page
+
+-Categorical and price based filtering.
+
+-Sorted by different characteristics.
+
+-Add-to-cart functionality
+
+-Management of international cart states.
+
+-Error status and loading.
+
+-Complete responsiveness (tablet, desktop, and mobile)
+
+# Tech Stack
+
+-Next.js 15 React server-rendered Framework with App Router.
+
+-React React is a component based UI creation.
+
+-TypeScript, Type safety and long-term maintainability.
+
+-Tailwind CSS - Responsive CSS which is utility-based.
+
+-Zustand -Lightweight global state management Zustand.
+
+-Vercel - Implementation and hosting.
+
+# Design & User Experience
+
+The interface of the user is in compliance with the best practices of the modern UI/UX:
+
+-Mobile responsive design.
+
+-Clearly defined organization and chain of command.
+
+-Components can be re-used and easily accessible.
+
+-Frequent spacing, colors and typography.
+
+The documentation of the UI design is done using the Figma and aligned with a final implementation based on the Project Nexus requirements.
 
 # Development Workflow
 
-It utilized a methodical Git commit method to span the setup, functionality, user interface enhancement, bug fixes, documentation and deploying through either Vercel or Netlify.
+The project is established in the following way:
 
-Evaluation Focus
+-Feature-based development
 
-Evaluations to the project include functionality, maintainable and clean code, good user experience, and good version control discipline.
+-Recalculable Git commit logs.
+
+-Belonging together Component organization.
+
+-Continuous testing.
+
+-Slow improvement and adjustments.
+
+# Deployment
+
+With the help of Vercel, the application will be launched and made publicly available.
+
+Live URL: To be added
