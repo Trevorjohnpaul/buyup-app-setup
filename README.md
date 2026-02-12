@@ -10,8 +10,11 @@ It is developed in the original of project Nexus (ProDev Frontend), which is all
 The structure and construction of a production-ready e-commerce frontend will be the goal of BuyUp, and the focus should be on:
 
 -Clean and maintainable code
--Application architecture (scalable components).
--Good user experience inter-device.
+
+-Application architecture using scalable components.
+
+-Good user experience across multiple devices.
+
 -Practice Version control practice and professional development
 
 # Key Features
