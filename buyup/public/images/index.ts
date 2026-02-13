@@ -1,0 +1,1 @@
+import bannerPic from './banner-pic.png';
