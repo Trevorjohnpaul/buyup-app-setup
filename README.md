@@ -47,7 +47,9 @@ The structure and construction of a production-ready e-commerce frontend will be
 
 -Zustand -Lightweight global state management Zustand.
 
--Vercel - Implementation and hosting.
+-Clerk -For user authentication management
+
+-Sanity-For product management
 
 # Design & User Experience
 
